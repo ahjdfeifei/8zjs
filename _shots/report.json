@@ -1,0 +1,188 @@
+{
+  "src": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat\\bazi-paipan\\玄微八字.html",
+  "url": "file:///C:/Users/Administrator/Doubao/chats/2026-10-18/new-chat/bazi-paipan/%E7%8E%84%E5%BE%AE%E5%85%AB%E5%AD%97.html",
+  "outdir": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat\\bazi-paipan\\_shots",
+  "include": [
+    "lint",
+    "screenshots",
+    "structure"
+  ],
+  "shots": {
+    "desktop": {
+      "screenshot": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat\\bazi-paipan\\_shots\\玄微八字_desktop.jpg",
+      "screenshotBytes": 231679,
+      "truncated": false,
+      "structure": {
+        "title": "玄微八字 · 五行命理排盘",
+        "firstH1": "玄微八字 · 五行命理排盘",
+        "viewport": {
+          "w": 1416,
+          "h": 762
+        },
+        "fullpage": {
+          "w": 1416,
+          "h": 5587
+        },
+        "counts": {
+          "section": 10,
+          "h1": 1,
+          "h2": 9,
+          "img": 0,
+          "canvas": 0,
+          "svg": 2,
+          "links": 0,
+          "buttons": 7
+        }
+      },
+      "consoleErrors": [],
+      "consoleWarnings": [],
+      "horizontalOverflow": [],
+      "resourceErrors": [],
+      "emojiUsageWarning": [
+        {
+          "tag": "span",
+          "chars": "★",
+          "contextText": "★ 免费开放全部详批内容"
+        }
+      ],
+      "emojiUsageHint": "warning · 含义：页面正文里检出 emoji 字符（U+1F300–U+1FAFF 或 U+2600–U+27BF 平面）。SKILL.md 视觉设计段明确禁用 emoji——不作图标、不作装饰、不放进数据。 | 修法：换成内联 SVG 图标（<svg viewBox=\"0 0 24 24\">）建立风格连贯的图标语言。 | 豁免：(1) **用户品牌资产明确包含 emoji**（罕见，但如即时通讯、社交媒体主题的产物合理）；(2) 主题本身就是关于 emoji 的（emoji 历史 / 表情包研究 / Unicode 演进）；(3) 引用某条真实文本原文（如推文截图的文字版），emoji 是内容而非装饰——保留原文可接受，但仍应权衡；(4) 装饰性 dingbat（如 U+2713 勾选符 ✓、U+2192 箭头 →、U+2605 星 ★）落入 U+2600–U+27BF 平面被误报的，如确认是符号非 emoji 可忽略。",
+      "reportSource": "cdp"
+    },
+    "mobile": {
+      "slices": [
+        "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat\\bazi-paipan\\_shots\\玄微八字_mobile_p1of3.jpg",
+        "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat\\bazi-paipan\\_shots\\玄微八字_mobile_p2of3.jpg",
+        "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat\\bazi-paipan\\_shots\\玄微八字_mobile_p3of3.jpg"
+      ],
+      "sliceHint": "按顺序 Read slices 里的各分片。",
+      "truncated": false,
+      "structure": {
+        "title": "玄微八字 · 五行命理排盘",
+        "firstH1": "玄微八字 · 五行命理排盘",
+        "viewport": {
+          "w": 476,
+          "h": 706
+        },
+        "fullpage": {
+          "w": 476,
+          "h": 7490
+        },
+        "counts": {
+          "section": 10,
+          "h1": 1,
+          "h2": 9,
+          "img": 0,
+          "canvas": 0,
+          "svg": 2,
+          "links": 0,
+          "buttons": 7
+        }
+      },
+      "consoleErrors": [],
+      "consoleWarnings": [],
+      "horizontalOverflow": [],
+      "resourceErrors": [],
+      "emojiUsageWarning": [
+        {
+          "tag": "span",
+          "chars": "★",
+          "contextText": "★ 免费开放全部详批内容"
+        }
+      ],
+      "emojiUsageHint": "warning · 含义：页面正文里检出 emoji 字符（U+1F300–U+1FAFF 或 U+2600–U+27BF 平面）。SKILL.md 视觉设计段明确禁用 emoji——不作图标、不作装饰、不放进数据。 | 修法：换成内联 SVG 图标（<svg viewBox=\"0 0 24 24\">）建立风格连贯的图标语言。 | 豁免：(1) **用户品牌资产明确包含 emoji**（罕见，但如即时通讯、社交媒体主题的产物合理）；(2) 主题本身就是关于 emoji 的（emoji 历史 / 表情包研究 / Unicode 演进）；(3) 引用某条真实文本原文（如推文截图的文字版），emoji 是内容而非装饰——保留原文可接受，但仍应权衡；(4) 装饰性 dingbat（如 U+2713 勾选符 ✓、U+2192 箭头 →、U+2605 星 ★）落入 U+2600–U+27BF 平面被误报的，如确认是符号非 emoji 可忽略。",
+      "reportSource": "cdp"
+    }
+  },
+  "engine": "chrome_cli",
+  "chromiumExec": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "engineDegraded": true,
+  "engineDegradedReason": "playwright 未装",
+  "elapsedSec": 14.05,
+  "schemaVersion": 2,
+  "status": "warning",
+  "engineInfo": {
+    "name": "chrome_cli",
+    "degraded": true,
+    "degradedReasons": [
+      "playwright 未装"
+    ]
+  },
+  "input": {
+    "original": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat\\bazi-paipan\\玄微八字.html",
+    "resolvedPath": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat\\bazi-paipan\\玄微八字.html",
+    "baseUrl": "file:///C:/Users/Administrator/Doubao/chats/2026-10-18/new-chat/bazi-paipan/%E7%8E%84%E5%BE%AE%E5%85%AB%E5%AD%97.html",
+    "protocol": "file",
+    "cwd": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat",
+    "mediaMode": {
+      "reducedMotion": true
+    }
+  },
+  "artifacts": {
+    "screenshots": [
+      {
+        "viewport": "desktop",
+        "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat\\bazi-paipan\\_shots\\玄微八字_desktop.jpg",
+        "size": 231679,
+        "visualCoverage": {
+          "complete": true,
+          "reason": null
+        }
+      },
+      {
+        "viewport": "mobile",
+        "tiles": [
+          "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat\\bazi-paipan\\_shots\\玄微八字_mobile_p1of3.jpg",
+          "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat\\bazi-paipan\\_shots\\玄微八字_mobile_p2of3.jpg",
+          "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat\\bazi-paipan\\_shots\\玄微八字_mobile_p3of3.jpg"
+        ],
+        "visualCoverage": {
+          "complete": true,
+          "reason": null
+        }
+      }
+    ]
+  },
+  "summary": {
+    "blocker": 0,
+    "error": 0,
+    "warning": 2,
+    "info": 0
+  },
+  "findings": [
+    {
+      "ruleId": "emojiUsageWarning",
+      "severity": "warning",
+      "kind": "typography",
+      "viewport": "desktop",
+      "selector": "span",
+      "evidence": {
+        "tag": "span",
+        "chars": "★",
+        "contextText": "★ 免费开放全部详批内容"
+      },
+      "dedupeKey": "emojiUsageWarning|desktop|span|0"
+    },
+    {
+      "ruleId": "emojiUsageWarning",
+      "severity": "warning",
+      "kind": "typography",
+      "viewport": "mobile",
+      "selector": "span",
+      "evidence": {
+        "tag": "span",
+        "chars": "★",
+        "contextText": "★ 免费开放全部详批内容"
+      },
+      "dedupeKey": "emojiUsageWarning|mobile|span|0"
+    }
+  ],
+  "prioritizedActions": [
+    {
+      "ruleId": "emojiUsageWarning",
+      "severity": "warning",
+      "viewport": "desktop",
+      "selector": "span"
+    }
+  ],
+  "reportPath": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-18\\new-chat\\bazi-paipan\\_shots\\report.json"
+}
